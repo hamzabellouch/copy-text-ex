@@ -39,7 +39,10 @@ Compatible with all major browsers: **Chrome, Brave, Edge, Opera, Vivaldi (Chrom
 │   └── manifest.json  # Firefox Manifest V3 configuration (with Gecko ID)
 │
 ├── .gitignore         # Prevents tracking of OS metadata, IDE configurations, etc.
-└── README.md          # Project documentation and usage guide
+├── LICENSE            # Apache 2.0 open-source license
+├── PRIVACY_POLICY.md  # Comprehensive bilingual privacy policy (English & Arabic)
+├── README.md          # Project documentation and usage guide
+└── SECURITY.md        # Security policy, supported versions, and vulnerability reporting
 
 ```
 
