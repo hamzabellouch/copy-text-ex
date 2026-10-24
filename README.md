@@ -99,29 +99,6 @@ firefox/
 > [!WARNING]
 > There is always a possibility of error, so we assume no responsibility for any inaccuracies.
 
-</p>
-<h3 align="center">Version 1.0.0</h3>
-<p align="center">
-</p>
-
-> Changes — October 24, 2026
-
-- Initial project release and core architecture setup for Copy Text
-- Unblocks right-click context menu and text selection on restricted websites
-- Intercepts and stops restrictive event propagation (`copy`, `cut`, `contextmenu`, `selectstart`, `dragstart`)
-- Restores essential keyboard shortcuts (`Ctrl+C`, `Ctrl+X`, `Ctrl+A` / `Cmd+C`, `Cmd+X`, `Cmd+A`)
-- Enforces user text selection styling via injected CSS (`user-select: text !important`)
-- Cleans inline restrictive DOM handlers (such as `oncopy="return false"`, `oncontextmenu`, `onselectstart`)
-- Continuous polling to handle dynamic single-page applications (SPAs) and delayed DOM updates
-- Full frame support ensuring all nested iframes have copying re-enabled
-- Dual-browser Manifest V3 compatibility for Chromium browsers and Mozilla Firefox (v128+)
-
-> Build Status
-
-```bash
-BUILD SUCCESSFUL
-```
-
 
 ### <a name="Copyright©2026"></a> Copyright © 2026
 
