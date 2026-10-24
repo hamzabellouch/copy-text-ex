@@ -2,9 +2,8 @@
 
 A modern, lightweight, and powerful browser extension designed to bypass copy restrictions and enable text selection, context menus (right-click), and clipboard actions across all protected websites.
 
-<div align="center">
-  <img src="chromium/icons/icon128.png" width="128" alt="Copy Text Logo"/>
-</div>
+<img width="2730" height="1536" alt="Copy-tex" src="https://github.com/user-attachments/assets/593a950f-ee3a-42df-a973-5fdf165e55c1" />
+
 
 Compatible with all major browsers: **Chrome, Brave, Edge, Opera, Vivaldi (Chromium-based)** and **Mozilla Firefox**.
 
